@@ -1,4 +1,4 @@
-<div align="center"><img src="Coding-bro.svg" width="500"/></div>
+<div align="center"><img src="Coding-bro.svg" width="500" height="320"/></div>
 <h2 align='center'>Hello there <img src="Hi[1].gif" width="35px" alt="hello"/>I'm Javad Aghebati</h2>
 <p align="center">Front-end web developer currently learning and improving my skills , looking forward to become a full-stack developer .</p>
 <p align="center">I’m currently open for a new job opportunity</p>
