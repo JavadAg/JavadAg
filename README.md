@@ -1,5 +1,5 @@
 <div align="center"><img src="Coding-bro.svg" width="500" height="320"/></div>
-<h2 align='center'>Hello there <img src="Hi[1].gif" width="35px" alt="hello"/>I'm Javad Aghebati</h2>
+<h2 align='center'>Hello there <img src="Hi[1].gif" width="35px" height="35px" alt="hello"/> I'm Javad Aghebati</h2>
 <p align="center">Front-end web developer passionate about creating web applications and experiences on the web . currently learning and improving my skills, excited to work alongside other amazing programmers and learn so much more. Anyway enough about me, you are probably more interested in the work I am capable of . Take a look at my projects. Make sure you click on each project to see the tools I used and other interesting information.</p>
 <p align="center">I’m currently open for a new job opportunity</p>
 <br>
