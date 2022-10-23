@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/javad-aghebati-8b6954236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:j.aghebati93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <br><br>
-<p><b>😄Fun fact</b></p>
-  <p>I love Coding, Gaming and Photography</p>
-</div>
+
 
 <h2 align="center">Knowledge Base </h2>
 <div align="center">
