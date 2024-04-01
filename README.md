@@ -1,12 +1,12 @@
 <div align="center"><img src="Coding-bro.svg" width="500" height="320"/></div>
 <h2 align='center'>Hello there <img src="Hi[1].gif" width="35px" height="35px" alt="hello"/> I'm Javad Aghebati</h2>
-<p align="center">Front-end web developer passionate about creating web applications and experiences on the web . currently learning and improving my skills, excited to work alongside other amazing programmers and learn so much more. Anyway enough about me, you are probably more interested in the work I am capable of . Take a look at my projects. Make sure you click on each project to see the tools I used and other interesting information.</p>
+<p align="center">
+   Frontend Web Developer and React Native enthusiast. Passionate about crafting seamless and engaging web applications, I thrive on bringing ideas to life through intuitive user interfaces and interactive experiences. Feel free to explore my repositories to see some of my latest projects and contributions. Let's connect and build something awesome together!</p>
 
 <br>
 <p align="center"><b>📫How to reach me</b></p>
 <div align="center">
-<a href="https://www.linkedin.com/in/javad-aghebati-8b6954236/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:j.aghebati93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:j.aghebati@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 <br><br>
 
 
@@ -27,9 +27,6 @@
   <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/nextjs-1983FF.svg?style=flat-square&logo=nextdotjs&logoColor=black"
       alt="react"/> 
-  </a>
-  <a href="https://redux-toolkit.js.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reduxtoolkit-764ABC.svg?style=flat-square&logo=redux&logoColor=white" alt="redux"/> 
   </a>
     <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=flat-square&logo=html5&logoColor=white"
